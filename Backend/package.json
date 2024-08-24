@@ -9,9 +9,13 @@
   },
   "keywords": [],
   "author": "",
+<<<<<<< HEAD
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
     "i": "^0.3.7"
   }
+=======
+  "license": "ISC"
+>>>>>>> 51480195ebc31f888764b201d32898e65e2476b6
 }
